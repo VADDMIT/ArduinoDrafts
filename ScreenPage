@@ -1,0 +1,11 @@
+class ScreenPage {
+
+public:
+  ScreenFontSize
+  int DispWidth
+  int DispHeight
+  BackgrndColor
+  Frame
+  BackgrndPic []
+
+private:
